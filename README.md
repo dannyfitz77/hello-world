@@ -1,2 +1,2 @@
 # hello-world
-Testing
+# Initial repository for setting up and familiarizing GitHub.
